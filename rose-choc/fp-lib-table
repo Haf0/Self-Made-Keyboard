@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "rose")(type "KiCad")(uri "${KIPRJMOD}/rose.pretty")(options "")(descr ""))
+)
